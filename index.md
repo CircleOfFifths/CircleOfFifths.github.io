@@ -15,15 +15,14 @@
 ---
 
 ### Blankets by Run Dorothy
-[![Blankets - Run Dorothy](http://img.youtube.com/vi/MAZ_rFtH4XI/0.jpg)](http://www.youtube.com/watch?v=MAZ_rFtH4XI)
+<a href="(http://www.youtube.com/watch?v=MAZ_rFtH4XI)" target="_blank">[![Blankets by Run Dorothy](http://img.youtube.com/vi/MAZ_rFtH4XI/0.jpg)](http://www.youtube.com/watch?v=MAZ_rFtH4XI)</a>
 
 ### The Difference Between Medicine And Poison Is In The Dose by Circa Survive
-[![The Difference Between Medicine And Poison Is In The Dose - Circa Survive](http://img.youtube.com/vi/eap9LIJxpkg/0.jpg)](http://www.youtube.com/watch?v=eap9LIJxpkg)
+<a href="(https://www.youtube.com/watch?v=eap9LIJxpkg)" target="_blank">[![The Difference Between Medicine And Poison Is In The Dose by Circa Survive](http://img.youtube.com/vi/eap9LIJxpkg/0.jpg)](https://www.youtube.com/watch?v=eap9LIJxpkg)</a>
 
 ### Blossom by Porter Robinson
-[![Blossom - Porter Robinson](http://img.youtube.com/vi/CGsmf_g9kho/0.jpg)](http://www.youtube.com/watch?v=CGsmf_g9kho)
+<a href="(http://www.youtube.com/watch?v=CGsmf_g9kho)" target="_blank">[![Blossom by Porter Robinson](http://img.youtube.com/vi/CGsmf_g9kho/0.jpg)](http://www.youtube.com/watch?v=CGsmf_g9kho)</a>
 
 ---
-
 
 
