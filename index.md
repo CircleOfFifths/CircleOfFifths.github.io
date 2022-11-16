@@ -17,15 +17,21 @@
 *These are some personal favorites from the general repertoire that I listen to. *
 
 ### Blankets by Run Dorothy
+
 *5/4 is always the better waltz <33*
+
 <a href="(http://www.youtube.com/watch?v=MAZ_rFtH4XI)" target="_blank">[![Blankets by Run Dorothy](http://img.youtube.com/vi/MAZ_rFtH4XI/0.jpg)](http://www.youtube.com/watch?v=MAZ_rFtH4XI)</a>
 
 ### The Difference Between Medicine And Poison Is In The Dose by Circa Survive
+
 *I love how the drums here are playing a 4/4 beat over a 3/4 time signature, so each measure alternates by starting either on the downbeat or upbeat.*
+
 <a href="(https://www.youtube.com/watch?v=eap9LIJxpkg)" target="_blank">[![The Difference Between Medicine And Poison Is In The Dose by Circa Survive](http://img.youtube.com/vi/eap9LIJxpkg/0.jpg)](https://www.youtube.com/watch?v=eap9LIJxpkg)</a>
 
 ### Blossom by Porter Robinson
+
 *I think it's always nice to take a break and listen to more down to earth and somber pieces like this.*
+
 <a href="(http://www.youtube.com/watch?v=CGsmf_g9kho)" target="_blank">[![Blossom by Porter Robinson](http://img.youtube.com/vi/CGsmf_g9kho/0.jpg)](http://www.youtube.com/watch?v=CGsmf_g9kho)</a>
 
 ---
