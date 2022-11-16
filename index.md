@@ -26,7 +26,7 @@
 
 ### The Difference Between Medicine And Poison Is In The Dose by Circa Survive
 
-*I love how the drums here are playing a 4/4 beat over a 3/4 time signature, so each measure alternates by starting either on the downbeat or upbeat.*
+*I love how the drums in the chorus are playing a 4/4 beat over a 3/4 time signature, so each measure alternates by starting either on the downbeat or upbeat.*
 
 [![The Difference Between Medicine And Poison Is In The Dose by Circa Survive](http://img.youtube.com/vi/eap9LIJxpkg/0.jpg)](https://www.youtube.com/watch?v=eap9LIJxpkg)
 
@@ -38,7 +38,7 @@
 
 ### Stitchface by Goodgame
 
-*Who knew that a song about Peach from Smash Brothers Melee could be so emotional*
+*Who knew that a song about Peach from Smash Brothers Melee could be so emotional?*
 
 [![Stitchface by Goodgame](http://img.youtube.com/vi/-M-TA7wRvE0/0.jpg)](http://www.youtube.com/watch?v=-M-TA7wRvE0)
 
