@@ -1,4 +1,4 @@
-remote_theme: pages-themes/minimal
+remote_theme: pages-themes/minimal@v0.2.0
 
 title: [Metaphorical Embodiment of a ii-V-I]
 description: [A microtonal brain dump]
