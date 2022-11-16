@@ -18,7 +18,7 @@
 
 ### Blankets by Run Dorothy
 
-*5/4 is always the better waltz <33*
+*5/4 will always be the better waltz to me. <33*
 
 <a href="(http://www.youtube.com/watch?v=MAZ_rFtH4XI)" target="_blank">[![Blankets by Run Dorothy](http://img.youtube.com/vi/MAZ_rFtH4XI/0.jpg)](http://www.youtube.com/watch?v=MAZ_rFtH4XI)</a>
 
