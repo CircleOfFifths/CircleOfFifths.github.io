@@ -1,5 +1,6 @@
-# Microtonal Brain Dump
 ---
+
+# Microtonal Brain Dump
 
 *Things happen and sometimes things don't, but oftentimes, most things happen, unless of course they don't. This place is where I document everything in between and beyond that— or whatever I feel like really.*
 
@@ -12,7 +13,7 @@
 ---
 
 # Music That I Probably Enjoy
----
+
 
 *These are some personal favorites from the general repertoire that I listen to.*
 
