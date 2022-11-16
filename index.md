@@ -1,4 +1,5 @@
 # Microtonal Brain Dump
+---
 
 *Things happen and sometimes things don't, but oftentimes, most things happen, unless of course they don't. This place is where I document everything in between and beyond that— or whatever I feel like really.*
 
@@ -7,8 +8,10 @@
 *Scrolling down this page, expect to throw away any customs of neatness, form, or legibility, because frankly, my mind isn't a place where any of those exist, unfortunately. Have fun and get a deep dive of my thoughts.*
 
 > "One last thing: I have just been told that our budget (I didn't know we even had one) has been cut down by 16%, so we're all going to have to settle for less, maybe." - J
+---
 
 # Music That I Probably Enjoy
+---
 
 ### Blankets by Run Dorothy
 [![Blankets - Run Dorothy](http://img.youtube.com/vi/MAZ_rFtH4XI/0.jpg)](http://www.youtube.com/watch?v=MAZ_rFtH4XI)
@@ -18,6 +21,8 @@
 
 ### Blossom by Porter Robinson
 [![Blossom - Porter Robinson](http://img.youtube.com/vi/CGsmf_g9kho/0.jpg)](http://www.youtube.com/watch?v=CGsmf_g9kho)
+
+---
 
 
 
