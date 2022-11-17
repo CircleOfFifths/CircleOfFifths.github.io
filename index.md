@@ -9,7 +9,6 @@
 
 > "One last thing: I have just been told that our budget (I didn't know we even had one) has been cut down by 16%, so we're all going to have to settle for less, maybe. When I say 'settle for less,' I mean that you will have to manually open the videos in a new tab because all of them are literally just images of the youtube thumbnail (with hyperlinks attached)." - J
 
----
 
 # Music That I Probably Enjoy
 
@@ -43,7 +42,6 @@
 [![Stitchface by Goodgame](http://img.youtube.com/vi/-M-TA7wRvE0/0.jpg)](http://www.youtube.com/watch?v=-M-TA7wRvE0)
 
 
----
 
 # Circle of Fifths
 
