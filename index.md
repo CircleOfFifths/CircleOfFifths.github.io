@@ -9,14 +9,14 @@
 
 *Scrolling down this page, expect to throw away any customs of neatness, form, or legibility, because frankly, my mind isn't a place where any of those exist, unfortunately. Have fun and get a deep dive of my thoughts.*
 
-> "One last thing: I have just been told that our budget (I didn't know we even had one) has been cut down by 16%, so we're all going to have to settle for less, maybe. We alsp will have to settle for lots of sarcasm, yay." - J
+> *"One last thing: I have just been told that our budget (I didn't know we even had one) has been cut down by 16%, so we're all going to have to settle for less, maybe. We alsp will have to settle for lots of sarcasm, yay." - J*
 
 
 # Music That I Probably Enjoy
 
 ---
 
-*These are some personal favorites from the general repertoire that I listen to.*
+> *These are some personal favorites from the general repertoire that I listen to.*
 
 
 
