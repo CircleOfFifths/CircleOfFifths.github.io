@@ -1,3 +1,3 @@
 # CircleOfFifths.github.io
 
-This is the repository for the personal website.
+This is the repository for the website.
