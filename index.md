@@ -7,7 +7,7 @@
 
 *Scrolling down this page, expect to throw away any customs of neatness, form, or legibility, because frankly, my mind isn't a place where any of those exist, unfortunately. Have fun and get a deep dive of my thoughts.*
 
-> "One last thing: I have just been told that our budget (I didn't know we even had one) has been cut down by 16%, so we're all going to have to settle for less, maybe. When I say 'settle for less,' I mean that you will have to manually open the videos in a new tab because all of them are literally just images of the youtube thumbnail (with hyperlinks attached)." - J
+> "One last thing: I have just been told that our budget (I didn't know we even had one) has been cut down by 16%, so we're all going to have to settle for less, maybe." - J
 
 
 # Music That I Probably Enjoy
@@ -27,19 +27,19 @@
 
 *I love how the drums in the chorus are playing a 4/4 beat over a 3/4 time signature, so each measure alternates by starting either on the downbeat or upbeat.*
 
-[![The Difference Between Medicine And Poison Is In The Dose by Circa Survive](http://img.youtube.com/vi/eap9LIJxpkg/0.jpg)](https://www.youtube.com/watch?v=eap9LIJxpkg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eap9LIJxpkg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Blossom by Porter Robinson
 
 *I think it's always nice to take a break and listen to more down to earth and somber pieces like this.*
 
-[![Blossom by Porter Robinson](http://img.youtube.com/vi/CGsmf_g9kho/0.jpg)](http://www.youtube.com/watch?v=CGsmf_g9kho)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CGsmf_g9kho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Stitchface by Goodgame
 
 *Who knew that a song about Peach from Smash Brothers Melee could be so emotional?*
 
-[![Stitchface by Goodgame](http://img.youtube.com/vi/-M-TA7wRvE0/0.jpg)](http://www.youtube.com/watch?v=-M-TA7wRvE0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-M-TA7wRvE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
