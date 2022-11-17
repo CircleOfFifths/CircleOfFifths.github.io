@@ -21,7 +21,7 @@
 
 *5/4 will always be the better waltz to me. <33*
 
-[![Blankets by Run Dorothy](http://img.youtube.com/vi/MAZ_rFtH4XI/0.jpg)](http://www.youtube.com/watch?v=MAZ_rFtH4XI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MAZ_rFtH4XI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### The Difference Between Medicine And Poison Is In The Dose by Circa Survive
 
