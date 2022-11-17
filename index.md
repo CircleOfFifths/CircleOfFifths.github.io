@@ -7,7 +7,7 @@
 
 *Scrolling down this page, expect to throw away any customs of neatness, form, or legibility, because frankly, my mind isn't a place where any of those exist, unfortunately. Have fun and get a deep dive of my thoughts.*
 
-> "One last thing: I have just been told that our budget (I didn't know we even had one) has been cut down by 16%, so we're all going to have to settle for less, maybe." - J
+> "One last thing: I have just been told that our budget (I didn't know we even had one) has been cut down by 16%, so we're all going to have to settle for less, maybe. When I say 'settle for less,' I mean that you will have to manually open the videos in a new tab because all of them are literally just images of the youtube thumbnail (with hyperlinks attached)." - J
 
 ---
 
