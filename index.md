@@ -58,4 +58,21 @@
 
 *This specific kind of Circle of Fifths is quite special because of the triangle in the middle. This triangle represents how the key centers move during Coltrane Changes, specifically in the tune Giant Steps. In the song, we always start with the ii-V-I of a single key, the most common resolution in jazz, and then we go throughout the keys following the triangle to create dynamic tonality. Coltrane was a little goofy like that.*
 
+# Projects I've Worked On
+
+---
+
+### Maharlika (Co-composer, Instrumentals)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tjB8ZHwZhRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### St. Faber's Prayer of Surrender (Composer)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FadnujhsCMO%2Fvideos%2F5341221239304050%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/roEVMd3Dl54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Reimagine (Musical Director, Instrumentals)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FadnujhsCMO%2Fvideos%2F623324872338360%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
 
