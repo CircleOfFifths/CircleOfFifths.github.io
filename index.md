@@ -54,7 +54,7 @@
 
 ![Thirds Changes](https://upload.wikimedia.org/wikipedia/commons/4/45/Thirds_cycle.png)
 
-*Here is a chart of notes, starting with C, and consecutively going up a perfect fifth (+7 semitones). It's a handy tool in music, because you can get a lot of information out of it. If you go backwards (or counter-clockwise), you can find the Fourth intervals instead. Interestingly, you can see the progression of key signatures listed respectively by number of sharps or flats in the key. The keys when we use the notes in the right hand side of the circle as root notes are mostly sharp keys, while the left hand side notes make flat keys.* 
+*Here is a chart of notes, starting with C, and consecutively going up a perfect fifth (+7 semitones). The fifth is a generally consonant interval in music, which means that it's usually pleasant to the human ear. The Circle of Fifths is a handy tool in music, because you can get a lot of information out of it. If you go backwards (or counter-clockwise), you can find the Fourth intervals instead. Interestingly, you can see the progression of key signatures listed respectively by number of sharps or flats in the key. The keys when we use the notes in the right hand side of the circle as root notes are mostly sharp keys, while the left hand side notes make flat keys.* 
 
 *This specific kind of Circle of Fifths is quite special because of the triangle in the middle. This triangle represents how the key centers move during Coltrane Changes, specifically in the tune Giant Steps. In the song, we always start with the ii-V-I of a single key, the most common resolution in jazz, and then we go throughout the keys following the triangle to create dynamic tonality. Coltrane was a little goofy like that.*
 
