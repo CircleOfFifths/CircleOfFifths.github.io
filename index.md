@@ -5,7 +5,7 @@
 
 *Things happen and sometimes things don't, but oftentimes, most things happen, unless of course they don't. This place is where I document everything in between and beyond that— or whatever I feel like really.*
 
-*I'd like to think that my thoughts, when put into harmony, are that of a ii-V-I: simple, concise, and resolute. I would like to inform you, however, that my thoughts are more adjacent to Coltrane Changes, a knot of erratic chord changes, but if Coltrane enjoyed making atonal and dissonant music. Did I also mention making inconsistent and questionable voice leading decisions?*
+*I'd like to think that my thoughts are that of a ii-V-I when put into musical form: simple, concise, and resolute. I would like to inform you, however, that my thoughts are more adjacent to Coltrane Changes, a knot of erratic chord changes, but if Coltrane enjoyed making atonal and dissonant music. Did I also mention making inconsistent and questionable voice leading decisions?*
 
 *Scrolling down this page, expect to throw away any customs of neatness, form, or legibility, because frankly, my mind isn't a place where any of those exist, unfortunately. Have fun and get a deep dive of my thoughts.*
 
