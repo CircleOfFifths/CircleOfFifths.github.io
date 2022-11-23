@@ -83,7 +83,7 @@
 
 ---
 
-*In the Examen journal made by the Campus Ministry Office, the friday entries always ask for a creative output, and so, I make songs. I'll just be sharing some of those that I'm confident with*
+*In the Examen journal made by the Campus Ministry Office, the friday entries always ask for a creative output, and so, I make songs. I'll just be sharing some of those that I'm confident with.*
 
 
 ### SY 2022-23, Week 1
