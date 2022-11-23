@@ -44,7 +44,11 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-M-TA7wRvE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Permanence by Invalids
 
+*This album was 3 years in the making and I am definitely not disappointed. The lyricism of Invalids' music has always felt like a focal point for me, and here, they've brought it up to 11.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bi6f4l8NKNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Circle of Fifths
 
@@ -74,5 +78,3 @@
 ### Reimagine (Musical Director, Instrumentals)
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FadnujhsCMO%2Fvideos%2F623324872338360%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-
-
