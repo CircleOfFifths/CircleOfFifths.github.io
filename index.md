@@ -46,7 +46,7 @@
 
 ### Permanence by Invalids
 
-*This album was 3 years in the making and I am definitely not disappointed. The lyricism of Invalids' music has always felt like a focal point for me, and here, they've brought it up to 11.
+*This album was 3 years in the making and I am definitely not disappointed. The lyricism of Invalids' music has always felt like a focal point for me, and here, they've brought it up to 11.*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bi6f4l8NKNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
