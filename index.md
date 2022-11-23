@@ -78,3 +78,14 @@
 ### Reimagine (Musical Director, Instrumentals)
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FadnujhsCMO%2Fvideos%2F623324872338360%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+# Examen Creative Entries
+
+---
+
+*In the Examen journal made by the Campus Ministry Office, the friday entries always ask for a creative output, and so, I make songs. I'll just be sharing some of those that I'm confident with*
+
+
+### SY 2022-23, Week 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fKk_3w1tQgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
