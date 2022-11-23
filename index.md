@@ -56,6 +56,12 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/53vw9miqxAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### You Know How It Is by Kero Kero Bonito
+
+*You know how it is.*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SmbPstHsmC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Circle of Fifths
 
 ---
